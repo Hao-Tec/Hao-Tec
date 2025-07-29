@@ -53,6 +53,9 @@ I’m a cybersecurity practitioner with practical experience in **offensive secu
 
 I’ve developed responsive and secure websites using **HTML, CSS, JavaScript**, and **basic hardening techniques**. Projects include secure dashboards, GPU checkers, and interactive portals for cyber reports.
 
+- 🖇️ **[FABDUSCUT Website](https://github.com/Hao-Tec/fabduscut-website)**  
+  A fully responsive and visually appealing portfolio website built for a barbing salon to showcase their services, styles, and contact information. The design is optimized for both desktop and mobile views, delivering a professional and modern brand experience for clients.
+  
 ---
 
 ## 📫 Let's Connect
