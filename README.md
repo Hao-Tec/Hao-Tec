@@ -27,7 +27,7 @@ I’m a cybersecurity practitioner with practical experience in **offensive secu
 
 ## 🔐 Featured Project
 
-- 🔒 **[Tor Anonymity Toolkit](https://github.com/Hao-Tec/tor-anonymity-toolkit)**  
+- 🧅 **[Tor Anonymity Toolkit](https://github.com/Hao-Tec/tor-anonymity-toolkit)**  
   A powerful bash-based Tor IP rotation and anonymity monitoring toolkit built with privacy in mind.
 
 - 🔒 **[Secure File Sharing System (AES Encryption)]()**  
