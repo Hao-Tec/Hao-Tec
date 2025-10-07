@@ -43,6 +43,7 @@ I’m a cybersecurity practitioner with practical experience in **offensive secu
 
 ## 💼 Internships & Practical Training
 
+- **IT Support Engineer - Tranter IT Infrastructure**:Deployed, configured, and supported a range of enterprise solutions — including ManageEngine, Microsoft Teams, Zoho applications, and other IT infrastructure, security, and collaboration tools — to improve operational efficiency and user productivity.
 - **ShadowFox Internship**: Offensive security tasks — reverse shell payloads, PE analysis, credential sniffing, WPA/WPA2 cracking  
 - **Future Interns Cybersecurity Program**: Developed full-stack encrypted file system, enhanced security via UI/UX and cryptographic techniques  
 - **Freelance Prompt Engineering**: Built AI-assisted cyber tools, report automation, and LLM-based forensic analysis prompts
