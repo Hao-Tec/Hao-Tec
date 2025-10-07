@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AbdulWaheed
 
-🎯 **Cybersecurity Intern | Offensive Security Enthusiast | Python Developer | Forensics & AI Prompt Engineer**
+🎯 **Certified Cybersecurity Professional | Offensive Security Enthusiast | Forensics & AI Prompt Engineer | IT Support Engineer| Python Developer | Front-End Developer**
 
 ---
 
