@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AbdulWaheed
 
-🎯 **Certified Cybersecurity Professional | Offensive Security Enthusiast | Forensics & AI Prompt Engineer | IT Support Engineer| Python Developer | Front-End Developer | CCEP **
+🎯 **Certified Cybersecurity Professional | Offensive Security Enthusiast | Forensics & AI Prompt Engineer | IT Support Engineer| Python Developer | Front-End Developer | CCEP**
 
 ---
 
