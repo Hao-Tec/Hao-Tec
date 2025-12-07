@@ -14,7 +14,7 @@ I’m a cybersecurity practitioner with practical experience in **offensive secu
 
 ## 🛠️ Core Skills & Tools
 
-**Languages**: Python, HTML, CSS, JavaScript, Bash, Batch  
+**Languages**: Python, Node.js, HTML, CSS, JavaScript, Java, Bash, Batch  
 **Cybersecurity**: Packet analysis, encryption, exploit simulation, digital forensics, log analysis  
 **Tools**: SIEM Solutions, Wireshark, FTK Imager, Metasploit, VeraCrypt, PEStudio, TCP Optimizer, DNSCrypt Proxy  
 **Platforms**: Kali Linux, Windows Server, VMware, VirtualBox, Windows 10/11
