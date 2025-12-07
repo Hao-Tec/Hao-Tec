@@ -23,9 +23,8 @@ I’m a cybersecurity practitioner with practical experience in **offensive secu
 
 ---
 
-## 📌 Highlight Projects
+## 📌  Project Highlights
 
-## 🔐 Featured Project
 
 - 📧 **[Email Phishing Detection Tool](https://github.com/Hao-Tec/phishing-email-analyzer)**  
   A comprehensive, modular Python tool for analyzing emails to detect phishing attacks. The tool extracts key email information, evaluates suspicious patterns using multiple heuristics, and generates detailed reports with risk scoring.
