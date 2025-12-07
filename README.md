@@ -6,7 +6,7 @@
 
 ## 🔐 About Me
 
-I’m a cybersecurity practitioner with practical experience in **offensive security**, **digital forensics**, **secure software development**, and **AI-enhanced threat analysis**. I’ve actively contributed to projects involving **AES encryption**, **penetration testing**, **Wi-Fi attacks**, and **packet forensics**, using tools like Wireshark, Metasploit, and VeraCrypt in real-world internship settings.
+I’m a cybersecurity practitioner with practical experience in **offensive security**, **digital forensics**, **secure software development**, and **AI-enhanced threat analysis**. I’ve actively contributed to projects involving **Enterprise-grade phishing detection systems**, **AES encryption**, **penetration testing**, and **packet forensics**, using tools like Wireshark, Metasploit, and VeraCrypt in real-world internship settings.
 
 > ⚡ I believe cybersecurity is more than just theory — it's about building, breaking, defending, and documenting with precision.
 
