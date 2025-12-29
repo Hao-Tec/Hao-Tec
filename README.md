@@ -131,15 +131,15 @@ philosophy: |
 ```mermaid
 timeline
     title Career Timeline
-    section 2025
+    section Sep-Oct 2025
         Technical Support Engineer : Tranter IT Infrastructure
         : Enterprise IT (Google Workspace, Teams, Zoho)
         : ManageEngine ticketing, AD administration
-    section 2025
+    section Jul-Aug 2025
         Cybersecurity Intern : Future Interns
         : OWASP ZAP vulnerability assessments
         : Splunk SIEM analysis, 150+ incidents/hr
-    section 2025
+    section Jul-Aug 2025
         Cybersecurity Intern : Shadow Fox
         : Penetration testing, Metasploit payloads
         : Credential capture, VeraCrypt cracking
