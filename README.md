@@ -5,20 +5,25 @@
 <!-- Animated Subtitle -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🔐+Building+Secure+Systems+%7C+Breaking+Insecure+Ones;🧠+AI-Powered+Threat+Detection+%7C+Offensive+Security;⚡+From+Concept+to+Deployment+—+Security+First" alt="Typing SVG" />
 
-<br/>
+<br/><br/><br/>
 
 <!-- Social Badges -->
 
 <a href="https://linkedin.com/in/haomi"><img src="https://img.shields.io/badge/-%40haomi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;&nbsp;
 <a href="https://github.com/Hao-Tec"><img src="https://img.shields.io/badge/-Hao--Tec-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;&nbsp;
 <a href="mailto:habeebabdulwaeed09@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
 <!-- Certification & Status Badges -->
 <img src="https://img.shields.io/badge/CCEP-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
+&nbsp;
 <img src="https://img.shields.io/badge/CPPS-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
+&nbsp;
 <img src="https://img.shields.io/badge/GitHub_Developer-Program_Member-00d4ff?style=flat-square&labelColor=0d1117"/>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Hao-Tec&style=flat-square&color=00d4ff&label=Profile+Views"/>
 
 </div>
@@ -86,32 +91,11 @@ philosophy: |
 
 <div align="center">
 
-<!-- Project 1 -->
-<a href="https://github.com/Hao-Tec/NetworkReconAgent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=NetworkReconAgent&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
-</a>
-<!-- Project 2 -->
-<a href="https://github.com/Hao-Tec/phishing-email-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=phishing-email-analyzer&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
-</a>
-
-<br/><br/>
-
-<!-- Project 3 -->
-<a href="https://github.com/Hao-Tec/secure-file-share">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=secure-file-share&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
-</a>
-<!-- Project 4 -->
-<a href="https://github.com/Hao-Tec/egg-guardian">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=egg-guardian&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
-</a>
-
-<br/><br/>
-
-<!-- Project 5 -->
-<a href="https://github.com/Hao-Tec/tor-anonymity-toolkit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=tor-anonymity-toolkit&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
-</a>
+|                                                                                                                                                  🔐 Security & Analysis                                                                                                                                                   |                                                                                                                                                📡 Networking & IoT                                                                                                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      [**📧 Phishing Email Analyzer**](https://github.com/Hao-Tec/phishing-email-analyzer)<br/>Enterprise-grade AI threat detection<br/>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square)       |         [**🕵️ Network Recon Agent**](https://github.com/Hao-Tec/NetworkReconAgent)<br/>Multi-protocol network scanner<br/>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Async](https://img.shields.io/badge/-Async_I/O-00d4ff?style=flat-square)         |
+|    [**🔒 Secure File Share**](https://github.com/Hao-Tec/secure-file-share)<br/>AES-256 encrypted file sharing<br/>![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) [![Live](https://img.shields.io/badge/-Live_Demo-success?style=flat-square)](https://cipher-vault-rke7.onrender.com)    | [**🥚 Egg Guardian**](https://github.com/Hao-Tec/egg-guardian)<br/>IoT temperature monitoring<br/>![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| [**🧅 Tor Anonymity Toolkit**](https://github.com/Hao-Tec/tor-anonymity-toolkit)<br/>Privacy-focused IP rotation<br/>![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Tor](https://img.shields.io/badge/-Tor-7E4798?style=flat-square&logo=torproject&logoColor=white) |                                                         [**⌨️ Typing Monitor**](https://github.com/Hao-Tec/Hao-Tec)<br/>Keystroke analytics tool<br/>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)                                                         |
 
 </div>
 
@@ -140,26 +124,12 @@ philosophy: |
 
 <div align="center">
 
-```mermaid
-timeline
-    title Career Timeline
-    section 2024
-        IT Support Engineer : Tranter IT Infrastructure
-        : Enterprise solutions, ManageEngine
-        : Microsoft Teams, Zoho apps
-    section Training
-        Security Intern : ShadowFox
-        : Offensive security, PE analysis
-        : Credential sniffing, WPA cracking
-    section Development
-        Cybersecurity Trainee : Future Interns
-        : Full-stack encrypted systems
-        : Security-focused UI/UX
-    section Freelance
-        Prompt Engineer : AI Security Tools
-        : LLM forensic analysis
-        : Report automation
-```
+| 🏢 Organization               | 💼 Role               | 🔧 Focus Areas                                  |
+| :---------------------------- | :-------------------- | :---------------------------------------------- |
+| **Tranter IT Infrastructure** | IT Support Engineer   | Enterprise solutions, ManageEngine, Teams, Zoho |
+| **ShadowFox**                 | Security Intern       | Offensive security, PE analysis, WPA cracking   |
+| **Future Interns**            | Cybersecurity Trainee | Full-stack encrypted systems, Security UI/UX    |
+| **Freelance**                 | Prompt Engineer       | AI security tools, LLM forensic analysis        |
 
 </div>
 
@@ -172,12 +142,14 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hao-Tec&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Tec&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9" height="180"/>
+<a href="https://github.com/Hao-Tec">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hao-Tec&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Tec&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-Tec&theme=react&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Hao-Tec&theme=react&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 <br/><br/>
 
@@ -198,11 +170,11 @@ timeline
 <a href="https://linkedin.com/in/haomi">
 <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:habeebabdulwaeed09@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/Hao-Tec">
 <img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
