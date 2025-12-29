@@ -20,6 +20,8 @@
 <!-- Certification & Status Badges -->
 <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00d4ff?style=flat-square&labelColor=0d1117&logo=isc2&logoColor=white"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-00d4ff?style=flat-square&labelColor=0d1117&logo=google&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/CCEP-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/CPPS-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
@@ -49,7 +51,7 @@ expertise:
   secure_development: [AES Encryption, Auth Systems, Threat Detection]
   ai_security: [LLM Forensic Analysis, Automated Threat Detection]
 
-certifications: [ISC2 CC, CCEP, CPPS]
+certifications: [ISC2 CC, Google Cybersecurity, CCEP, CPPS]
 
 philosophy: |
   "Cybersecurity is not a one-time fix — 
@@ -129,22 +131,26 @@ philosophy: |
 ```mermaid
 timeline
     title Career Timeline
-    section 2024
-        IT Support Engineer : Tranter IT Infrastructure
-        : Enterprise solutions, ManageEngine
-        : Microsoft Teams, Zoho apps
-    section Training
-        Security Intern : ShadowFox
-        : Offensive security, PE analysis
-        : Credential sniffing, WPA cracking
-    section Development
-        Cybersecurity Trainee : Future Interns
-        : Full-stack encrypted systems
-        : Security-focused UI/UX
-    section Freelance
-        Prompt Engineer : AI Security Tools
-        : LLM forensic analysis
-        : Report automation
+    section 2025
+        Technical Support Engineer : Tranter IT Infrastructure
+        : Enterprise IT (Google Workspace, Teams, Zoho)
+        : ManageEngine ticketing, AD administration
+    section 2025
+        Cybersecurity Intern : Future Interns
+        : OWASP ZAP vulnerability assessments
+        : Splunk SIEM analysis, 150+ incidents/hr
+    section 2025
+        Cybersecurity Intern : Shadow Fox
+        : Penetration testing, Metasploit payloads
+        : Credential capture, VeraCrypt cracking
+    section 2024-Present
+        Prompt Engineer : Freelance
+        : AI prompts for forensics reports
+        : Security documentation & toolchains
+    section 2019-Present
+        Security Consultant : Self-Employed
+        : Windows Server/AD hardening
+        : Forensic toolkits, 15+ clients
 ```
 
 </div>
@@ -157,6 +163,11 @@ timeline
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hao-Tec&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Tec&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Hao-Tec&theme=react&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
