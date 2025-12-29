@@ -135,14 +135,10 @@ timeline
         Technical Support Engineer : Tranter IT Infrastructure
         : Enterprise IT (Google Workspace, Teams, Zoho)
         : ManageEngine ticketing, AD administration
-    section Jul-Aug 2025
-        Cybersecurity Intern : Future Interns
-        : OWASP ZAP vulnerability assessments
-        : Splunk SIEM analysis, 150+ incidents/hr
-    section Jul-Aug 2025
-        Cybersecurity Intern : Shadow Fox
-        : Penetration testing, Metasploit payloads
-        : Credential capture, VeraCrypt cracking
+    section Summer 2025
+        Cybersecurity Intern : Future Interns & Shadow Fox
+        : OWASP ZAP, Splunk SIEM, 150+ incidents/hr
+        : Penetration testing, Metasploit, VeraCrypt
     section 2024-Present
         Prompt Engineer : Freelance
         : AI prompts for forensics reports
@@ -163,11 +159,6 @@ timeline
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hao-Tec&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Tec&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Hao-Tec&theme=react&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
