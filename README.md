@@ -158,13 +158,6 @@ timeline
 
 <div align="center">
 
-<a href="https://github.com/Hao-Tec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hao-Tec&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Tec&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
-</a>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=Hao-Tec&theme=react&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
 
 <br/><br/>
