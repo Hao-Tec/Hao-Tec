@@ -1,92 +1,230 @@
-# 👋 Hi, I'm AbdulWaheed
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d4ff&height=200&section=header&text=AbdulWaheed%20Habeeb&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Professional%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-🎯 **Certified Cybersecurity Professional | Offensive Security Enthusiast | Forensics & AI Prompt Engineer | IT Support Engineer| Python Developer | Front-End Developer | CCEP | CPPS**
+<div align="center">
 
----
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🔐+Building+Secure+Systems+%7C+Breaking+Insecure+Ones;🧠+AI-Powered+Threat+Detection+%7C+Offensive+Security;⚡+From+Concept+to+Deployment+—+Security+First" alt="Typing SVG" />
 
-## 🔐 About Me
+<br/>
 
-I’m a cybersecurity practitioner with practical experience in **offensive security**, **digital forensics**, **secure software development**, and **AI-enhanced threat analysis**. I’ve actively contributed to projects involving **Enterprise-grade phishing detection systems**, **AES encryption**, **penetration testing**, and **packet forensics**, using tools like Wireshark, Metasploit, and VeraCrypt in real-world internship settings.
+<!-- Social Badges -->
 
-> ⚡ I believe cybersecurity is more than just theory — it's about building, breaking, defending, and documenting with precision.
+<a href="https://linkedin.com/in/haomi"><img src="https://img.shields.io/badge/-%40haomi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Hao-Tec"><img src="https://img.shields.io/badge/-Hao--Tec-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:habeebabdulwaeed09@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
+<br/><br/>
 
-## 🛠️ Core Skills & Tools
+<!-- Certification & Status Badges -->
+<img src="https://img.shields.io/badge/CCEP-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CPPS-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub_Developer-Program_Member-00d4ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Hao-Tec&style=flat-square&color=00d4ff&label=Profile+Views"/>
 
-**Languages**: Python, Node.js, HTML, CSS, JavaScript, Java, Bash, Batch  
-**Cybersecurity**: Packet analysis, encryption, exploit simulation, digital forensics, log analysis  
-**Tools**: SIEM Solutions, Wireshark, FTK Imager, Metasploit, VeraCrypt, PEStudio, TCP Optimizer, DNSCrypt Proxy  
-**Platforms**: Kali Linux, Windows Server, VMware, VirtualBox, Windows 10/11
-**Dev Tools**: Flask, Git & GitHub, Postman, PyInstaller, Tkinter  
-**Others**: SOC monitoring, AD Manager, Wordlist crafting, GUI automation  
+</div>
 
----
+<br/>
 
-## 📌  Project Highlights
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-- 📧 **[Email Phishing Detection Tool](https://github.com/Hao-Tec/phishing-email-analyzer)**  
-  Enterprise-grade phishing detection system that identifies sophisticated email threats. Integrates active authentication, machine learning, OCR analysis, and threat intelligence for comprehensive security assessments.
+```yaml
+name: AbdulWaheed Habeeb
+location: Nigeria 🇳🇬
+current_role: Cybersecurity Professional & Developer
 
-- 🧅 **[Tor Anonymity Toolkit](https://github.com/Hao-Tec/tor-anonymity-toolkit)**  
-  A powerful bash-based Tor IP rotation and anonymity monitoring toolkit built with privacy in mind.
+expertise:
+  offensive_security:
+    [Penetration Testing, Exploit Development, Credential Analysis]
+  digital_forensics: [Packet Analysis, Log Forensics, Malware Investigation]
+  secure_development: [AES Encryption, Auth Systems, Threat Detection]
+  ai_security: [LLM Forensic Analysis, Automated Threat Detection]
 
-- 🔒 **[Secure File Sharing System (AES Encryption)](https://github.com/Hao-Tec/secure-file-share)**  
-  Web platform with Flask backend and AES encryption for secure upload/download, password validation, drag-and-drop UI, and dark mode.
+certifications: [CCEP, CPPS]
 
-- 🧰 **[Cybersecurity Toolkit Launcher]()**  
-  Python-based GUI for launching key tools like FTK Imager, PEStudio, NetAdapter, etc., compiled to EXE.
+philosophy: |
+  "Cybersecurity is not a one-time fix — 
+   it's a culture, a mindset, and a commitment."
+```
 
-- ⚙️ **[DNSCrypt Hardened Setup]()**  
-  Custom batch-scripted DNSCrypt configuration with blacklists, encryption, and persistent startup.
+<br/>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Internships & Practical Training
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
-- **IT Support Engineer - Tranter IT Infrastructure**: Deployed, configured, and supported a range of enterprise solutions — including ManageEngine, Microsoft Teams, Zoho applications, and other IT infrastructure, security, and collaboration tools — to improve operational efficiency and user productivity.
-- **ShadowFox Internship**: Offensive security tasks — reverse shell payloads, PE analysis, credential sniffing, WPA/WPA2 cracking  
-- **Future Interns Cybersecurity Program**: Developed full-stack encrypted file system, enhanced security via UI/UX and cryptographic techniques  
-- **Freelance Prompt Engineering**: Built AI-assisted cyber tools, report automation, and LLM-based forensic analysis prompts
+<div align="center">
 
----
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,html,css,java&theme=dark" alt="Languages"/>
 
-## 🌐 Freelance Web Projects
+<br/><br/>
 
-I’ve developed responsive and secure websites using **HTML, CSS, JavaScript**, and **basic hardening techniques**. Projects include secure dashboards, GPU checkers, and interactive portals for cyber reports.
+<!-- Frameworks & Tools -->
+<img src="https://skillicons.dev/icons?i=flask,fastapi,flutter,docker,git,linux,vscode,postman&theme=dark" alt="Tools"/>
 
-- 🖇️ **[FABDUSCUT Website](https://github.com/Hao-Tec/fabduscut-website)**  
-  A fully responsive and visually appealing portfolio website built for a barbing salon to showcase their services, styles, and contact information. The design is optimized for both desktop and mobile views, delivering a professional and modern brand experience for clients.
-  
----
+<br/><br/>
 
-## 🏅 Badge Wall
+<!-- Security Tools (Custom Badges) -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/VeraCrypt-22A7F0?style=for-the-badge&logo=veracrypt&logoColor=white"/>
 
-![Employability Ready](https://img.shields.io/badge/Employability-Industry%20Training%20%26%20Certs-success?logo=briefcase&style=for-the-badge)
-![SOC Training](https://img.shields.io/badge/SOC%20Monitoring-Real%20World%20Internship-blue?style=for-the-badge)
-![AD Manager](https://img.shields.io/badge/Active%20Directory-Management%20%26%20Hardening-darkgreen?style=for-the-badge)
-![Hands-on Labs](https://img.shields.io/badge/Hands--On-Labs%20%26%20Simulations-critical?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive%20Security-red?logo=hackthebox&style=for-the-badge)
-![Python Dev](https://img.shields.io/badge/Python-Forensics%20%26%20Automation-blue?logo=python&style=for-the-badge)
-![Prompt Engineer](https://img.shields.io/badge/Prompt%20Engineer-AI%20%26%20LLM%20Forensics-yellow?style=for-the-badge)
-![Tor Toolkit](https://img.shields.io/badge/Tor%20Toolkit-IP%20Rotation-purple?style=for-the-badge)
-![AES Encryption](https://img.shields.io/badge/AES-Encrypted%20File%20System-green?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Projects-Dashboard%20%26%20Encryption-9cf?style=for-the-badge)
-![DNS Hardening](https://img.shields.io/badge/DNSCrypt-Hardened%20Setup-critical?style=for-the-badge)
-![GitHub Contributions](https://img.shields.io/badge/GitHub-Private%20%26%20Public%20Commits-lightgrey?logo=github&style=for-the-badge)
+</div>
 
----
+<br/>
 
-## 📫 Let's Connect
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 🔗 [LinkedIn](https://linkedin.com/in/haomi)  
-- 🔒 [GitHub](https://github.com/hao-tec)  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
 
----
+<div align="center">
 
-> _“Cybersecurity is not a one-time fix — it's a culture, a mindset, and a commitment.”_
-<!---
-Hao-Tec/Hao-Tec is a ✨ special ✨ repository because it is very unique in its dealing with people.
-You can contact us for any IT Solutions.
---->
+<!-- Project 1 -->
+<a href="https://github.com/Hao-Tec/NetworkReconAgent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=NetworkReconAgent&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
+</a>
+<!-- Project 2 -->
+<a href="https://github.com/Hao-Tec/phishing-email-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=phishing-email-analyzer&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
+</a>
+
+<br/><br/>
+
+<!-- Project 3 -->
+<a href="https://github.com/Hao-Tec/secure-file-share">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=secure-file-share&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
+</a>
+<!-- Project 4 -->
+<a href="https://github.com/Hao-Tec/egg-guardian">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=egg-guardian&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
+</a>
+
+<br/><br/>
+
+<!-- Project 5 -->
+<a href="https://github.com/Hao-Tec/tor-anonymity-toolkit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hao-Tec&repo=tor-anonymity-toolkit&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff" width="49%"/>
+</a>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🔥 Quick Start Commands</b></summary>
+<br/>
+
+| Project                 | Quick Start                                            |
+| ----------------------- | ------------------------------------------------------ |
+| **Network Recon Agent** | `python main.py --async --subnet 192.168.0.0/24`       |
+| **Phishing Analyzer**   | `python main.py -f email.eml --format html`            |
+| **Secure File Share**   | [🔗 Live Demo](https://cipher-vault-rke7.onrender.com) |
+| **Egg Guardian**        | `docker-compose up --build`                            |
+| **Tor Toolkit**         | `./tor-toolkit.sh --rotate`                            |
+
+</details>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> Professional Journey
+
+<div align="center">
+
+```mermaid
+timeline
+    title Career Timeline
+    section 2024
+        IT Support Engineer : Tranter IT Infrastructure
+        : Enterprise solutions, ManageEngine
+        : Microsoft Teams, Zoho apps
+    section Training
+        Security Intern : ShadowFox
+        : Offensive security, PE analysis
+        : Credential sniffing, WPA cracking
+    section Development
+        Cybersecurity Trainee : Future Interns
+        : Full-stack encrypted systems
+        : Security-focused UI/UX
+    section Freelance
+        Prompt Engineer : AI Security Tools
+        : LLM forensic analysis
+        : Report automation
+```
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hao-Tec&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hao-Tec&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00d4ff&text_color=c9d1d9" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hao-Tec&theme=react&background=0d1117&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="70%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hao-Tec&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/haomi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="mailto:habeebabdulwaeed09@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://github.com/Hao-Tec">
+<img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+### 💬 Open for Opportunities
+
+> **Security Consulting** • **Penetration Testing** • **Secure Development** • **AI Integration**
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+**⭐ If you find my work useful, consider giving my repos a star!**
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="28"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="28"/>
+
+</div>
