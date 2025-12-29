@@ -18,6 +18,8 @@
 <br/><br/>
 
 <!-- Certification & Status Badges -->
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00d4ff?style=flat-square&labelColor=0d1117&logo=isc2&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/CCEP-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/CPPS-Certified-00d4ff?style=flat-square&labelColor=0d1117"/>
@@ -47,7 +49,7 @@ expertise:
   secure_development: [AES Encryption, Auth Systems, Threat Detection]
   ai_security: [LLM Forensic Analysis, Automated Threat Detection]
 
-certifications: [CCEP, CPPS]
+certifications: [ISC2 CC, CCEP, CPPS]
 
 philosophy: |
   "Cybersecurity is not a one-time fix — 
@@ -124,12 +126,26 @@ philosophy: |
 
 <div align="center">
 
-| 🏢 Organization               | 💼 Role               | 🔧 Focus Areas                                  |
-| :---------------------------- | :-------------------- | :---------------------------------------------- |
-| **Tranter IT Infrastructure** | IT Support Engineer   | Enterprise solutions, ManageEngine, Teams, Zoho |
-| **ShadowFox**                 | Security Intern       | Offensive security, PE analysis, WPA cracking   |
-| **Future Interns**            | Cybersecurity Trainee | Full-stack encrypted systems, Security UI/UX    |
-| **Freelance**                 | Prompt Engineer       | AI security tools, LLM forensic analysis        |
+```mermaid
+timeline
+    title Career Timeline
+    section 2024
+        IT Support Engineer : Tranter IT Infrastructure
+        : Enterprise solutions, ManageEngine
+        : Microsoft Teams, Zoho apps
+    section Training
+        Security Intern : ShadowFox
+        : Offensive security, PE analysis
+        : Credential sniffing, WPA cracking
+    section Development
+        Cybersecurity Trainee : Future Interns
+        : Full-stack encrypted systems
+        : Security-focused UI/UX
+    section Freelance
+        Prompt Engineer : AI Security Tools
+        : LLM forensic analysis
+        : Report automation
+```
 
 </div>
 
