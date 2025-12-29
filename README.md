@@ -13,7 +13,9 @@
 &nbsp;&nbsp;
 <a href="https://github.com/Hao-Tec"><img src="https://img.shields.io/badge/-Hao--Tec-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;&nbsp;
-<a href="mailto:habeebabdulwaeed09@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://abdulwaheed-habeeb.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+&nbsp;&nbsp;
+<a href="mailto:habeebabdulwaheed09@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -29,6 +31,8 @@
 <img src="https://img.shields.io/badge/GitHub_Developer-Program_Member-00d4ff?style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Hao-Tec&style=flat-square&color=00d4ff&label=Profile+Views"/>
+&nbsp;
+<a href="https://app.netlify.com/projects/abdulwaheed-habeeb/deploys"><img src="https://api.netlify.com/api/v1/badges/59dacd5e-165d-4e30-9cde-cc61817cbf8d/deploy-status" alt="Netlify Status"/></a>
 
 </div>
 
